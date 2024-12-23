@@ -34,35 +34,36 @@ My vision is to bridge innovative ideas and practical implementations, ensuring 
 #### Frontend
 <p align="left">
   <!-- React -->
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   &nbsp;
   <!-- Redux -->
-  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
   &nbsp;
   <!-- Next.js -->
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
   &nbsp;
   <!-- JavaScript -->
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   &nbsp;
   <!-- TypeScript -->
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
 </p>
 
 #### Backend
 <p align="left">
   <!-- Node.js -->
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   &nbsp;
   <!-- Express -->
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
   &nbsp;
   <!-- PostgreSQL -->
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   &nbsp;
-  <!-- Prisma -->
-  <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="50" height="50" />
+  <!-- Prisma (No DevIcon) -->
+  <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="50" height="50"/>
 </p>
+
 
 ---
 
