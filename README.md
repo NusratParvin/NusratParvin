@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
  ## Hi there 👋, Good to see you!
 ### My name is Nusrat, and I'm a Fullstack Developer who loves exploring tech frontiers with curiosity, blending my knowledge into code that yields tangible results.  
-![Banner]([https://i.pinimg.com/736x/2c/2e/3f/2c2e3fd424d82b390cb91b1a1c3a7e4c.jpg])
+![Banner](https://i.pinimg.com/736x/2c/2e/3f/2c2e3fd424d82b390cb91b1a1c3a7e4c.jpg)
+ 
 
 
 My vision is to bridge innovative ideas and practical implementations, ensuring each software project not only solves a problem but also delivers a meaningful, positive user experience. Through continuous learning and a passion for technology, I strive to craft solutions that stand the test of time.
