@@ -39,8 +39,11 @@ My vision is to bridge innovative ideas and practical implementations, ensuring 
   <!-- Redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
   &nbsp;
-  <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
+  <!-- Next.js (with white background) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" 
+       alt="Next.js" 
+       width="70" 
+       style="background-color:white; padding:5px; border-radius:8px;"/>
   &nbsp;
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -54,16 +57,18 @@ My vision is to bridge innovative ideas and practical implementations, ensuring 
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   &nbsp;
-  <!-- Express -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+  <!-- Express (with white background) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" 
+       alt="Express" 
+       width="80" 
+       style="background-color:white; padding:5px; border-radius:8px;"/>
   &nbsp;
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   &nbsp;
-  <!-- Prisma (No DevIcon) -->
-  <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="50" height="50"/>
+  <!-- Prisma (No DevIcon, same approach if desired) -->
+  <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="50" height="50" style="background-color:white; padding:5px; border-radius:8px;"/>
 </p>
-
 
 ---
 
