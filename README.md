@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--
+
+<!--## Hi there 👋
 **NusratParvin/NusratParvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ### Hi there 👋, Good to see you!
+ ## Hi there 👋, Good to see you!
+### My name is Nusrat, and I'm a Fullstack Developer who loves exploring tech frontiers with curiosity, blending my knowledge into code that yields tangible results.  
 ![Banner](https://i.pinimg.com/736x/2c/2e/3f/2c2e3fd424d82b390cb91b1a1c3a7e4c.jpg)
 
-My name is Nusrat, and I'm a Fullstack Developer who loves exploring tech frontiers with curiosity, blending my knowledge into code that yields tangible results.  
 
 My vision is to bridge innovative ideas and practical implementations, ensuring each software project not only solves a problem but also delivers a meaningful, positive user experience. Through continuous learning and a passion for technology, I strive to craft solutions that stand the test of time.
 
-**Skills:** NEXT JS / REACT / JS / HTML / CSS
-
+ 
 - 🌱 I’m currently learning **GSAP**  
 - 💬 Ask me about anything related to the techs I’ve explored  
 - 📫 How to reach me: [nusrat@gmail.com](mailto:nusrat@gmail.com)  
@@ -68,19 +67,25 @@ My vision is to bridge innovative ideas and practical implementations, ensuring 
 ---
 
 ### My Projects
-- [**ix**](https://github.com/YourUsername/ix): An e-commerce platform for managing products, customers, and orders.  
-- [**fishcove**](https://github.com/YourUsername/fishcove): A specialized platform for handling fish-related data or operations.  
-- [**cashwave**](https://github.com/YourUsername/cashwave): An accounting software designed to streamline financial tracking and reporting.
+
+- [**ix**]([https://github.com/YourUsername/ix](https://github.com/NusratParvin/ecommerceIX-client)):  
+  An e-commerce platform focused on **fashion and accessories**, allowing merchants to manage products, customers, and orders. It provides a sleek user experience for both shoppers and store owners.
+
+- [**fishCove**]([https://github.com/YourUsername/fishcov](https://github.com/NusratParvin/fishCove-frontend)):  
+  A platform built for people who love fish as pets. Users can **browse articles**, **buy fish-related accessories**, and stay informed about proper fish care. It aims to be a one-stop hub for the fish enthusiast community.
+
+- [**CashWave**]([https://github.com/YourUsername/cashwave](https://github.com/NusratParvin/CashWave-Client)):  
+  An accounting solution designed for shops to **add stock data**, **track inventory**, **record purchases**, and **generate detailed financial reports**. This streamlined system helps businesses maintain accurate and efficient record-keeping. 
 
 ---
 
 ### Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/NusratParvin)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/nusrat-parvin/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>]()  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='30'>](https://leetcode.com/u/jTl7TxZYA3/)  
 
----
+[![GitHub Badge](https://img.shields.io/badge/-NusratParvin-white?logo=GitHub&logoColor=181717&style=for-the-badge)](https://github.com/NusratParvin)
+[![LinkedIn Badge](https://img.shields.io/badge/-NusratParvin-blue?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nusrat-parvin/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-informational?logo=Google%20Chrome&logoColor=white&style=for-the-badge)](#)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode%20Profile-orange?logo=LeetCode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/jTl7TxZYA3/)
+
 
 ### GitHub Stats
 
