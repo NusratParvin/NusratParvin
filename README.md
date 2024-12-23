@@ -96,6 +96,5 @@ My vision is to bridge innovative ideas and practical implementations, ensuring 
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NusratParvin&show_icons=true&count_private=true)  
- [![NusratParvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NusratParvin)](https://github.com/NusratParvin/github-readme-stats)
-![GitHub metrics](https://metrics.lecoq.io/NusratParvin)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=NusratParvin)
+![NusratParvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NusratParvin&show_icons=true&theme=aura)
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=NusratParvin)
