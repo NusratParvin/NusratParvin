@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 -->
  ## Hi there 👋, Good to see you!
 ### My name is Nusrat, and I'm a Fullstack Developer who loves exploring tech frontiers with curiosity, blending my knowledge into code that yields tangible results.  
-![Banner](https://i.pinimg.com/736x/f6/29/f8/f629f8805eb7ee59155f6f9eed2d68fc.jpg)
+<div align="center">
+  <img 
+    src="https://i.pinimg.com/736x/f6/29/f8/f629f8805eb7ee59155f6f9eed2d68fc.jpg" 
+    alt="Banner" 
+    height="200"
+  />
+</div>
+
  
 
 
