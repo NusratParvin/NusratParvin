@@ -31,44 +31,19 @@ My vision is to bridge innovative ideas and practical implementations, ensuring 
 
 ### Technologies & Tools
 
-#### Frontend
-<p align="left">
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  &nbsp;
-  <!-- Redux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
-  &nbsp;
-  <!-- Next.js (with white background) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" 
-       alt="Next.js" 
-       width="70" 
-       style="background-color:white; padding:5px; border-radius:8px;"/>
-  &nbsp;
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  &nbsp;
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-</p>
+### Frontend
+[![React Badge](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)](https://reactjs.org/)
+[![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)](https://redux.js.org/)
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)](https://nextjs.org/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
 
-#### Backend
-<p align="left">
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  &nbsp;
-  <!-- Express (with white background) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" 
-       alt="Express" 
-       width="80" 
-       style="background-color:white; padding:5px; border-radius:8px;"/>
-  &nbsp;
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  &nbsp;
-  <!-- Prisma (No DevIcon, same approach if desired) -->
-  <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="50" height="50" style="background-color:white; padding:5px; border-radius:8px;"/>
-</p>
+### Backend
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/en/)
+[![Express.js Badge](https://img.shields.io/badge/-Express.js-404D59?logo=express&logoColor=white&style=for-the-badge)](https://expressjs.com/)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
+[![Prisma Badge](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)](https://www.prisma.io/)
+
 
 ---
 
@@ -95,6 +70,5 @@ My vision is to bridge innovative ideas and practical implementations, ensuring 
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NusratParvin&show_icons=true&count_private=true)  
-![NusratParvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NusratParvin&show_icons=true&theme=aura)
+ ![NusratParvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NusratParvin&show_icons=true&theme=aura)
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=NusratParvin)
